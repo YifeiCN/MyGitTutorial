@@ -2,7 +2,7 @@
 
 ### The purpose of this repo:
 
-I have sign up for GitHub account for a long time,  but i haven't used its hosting features until recently. (I won't say I didn't even create a repository befor ;)  )
+I have sign up for GitHub account for a long time,  but i haven't used its hosting features until recently. (I won't say I didn't even create a repository before ;)  )
 
 Okey, let me talk about the purpose of this repo and why I do that. **This repo is prepare for those people like me before who can only fork others but don't know how to create repository locally and associate with GitHub.**  
 
